@@ -1,4 +1,4 @@
-name: Deploy Vite to GitHub Pages RECARREGAR ESSE INFERNO
+name: Deploy Vite to GitHub Pages
 
 on:
   push:
@@ -18,12 +18,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
 
       - name: Install
         run: npm install
@@ -43,5 +44,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - id: deployment
+      - name: Deploy
+        id: deployment
         uses: actions/deploy-pages@v4
