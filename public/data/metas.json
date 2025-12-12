@@ -1,0 +1,26 @@
+[
+  {
+    "mes": "2025-10-01",
+    "filial": "CASCAVEL",
+    "meta_frete": 25000.0,
+    "tipo": "Máquinas"
+  },
+  {
+    "mes": "2025-10-01",
+    "filial": "TOLEDO",
+    "meta_frete": 22000.0,
+    "tipo": "Máquinas"
+  },
+  {
+    "mes": "2025-10-01",
+    "filial": "GUARAPUAVA",
+    "meta_frete": 20000.0,
+    "tipo": "Máquinas"
+  },
+  {
+    "mes": "2025-11-01",
+    "filial": "CASCAVEL",
+    "meta_frete": 26000.0,
+    "tipo": "Máquinas"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "caminhao": "DAF CF FAC 410 (2022)",
+    "documento": "Licenciamento",
+    "data_validade": "2026-03-31",
+    "status": "OK"
+  },
+  {
+    "caminhao": "VW 24.320 CLC 6x2 (2010)",
+    "documento": "Tacógrafo",
+    "data_validade": "2026-01-20",
+    "status": "ATENÇÃO"
+  }
+]

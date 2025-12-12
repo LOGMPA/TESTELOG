@@ -1,0 +1,42 @@
+[
+  {
+    "tipo": "Frete Peças M",
+    "filial": "CASCAVEL",
+    "data": "2025-10-03",
+    "fornecedor": "Motoboy Express",
+    "valor": 45.0,
+    "nota": "NF 12345"
+  },
+  {
+    "tipo": "Frete Peças T",
+    "filial": "TOLEDO",
+    "data": "2025-10-05",
+    "fornecedor": "Transportadora Rodovias",
+    "valor": 320.0,
+    "nota": "NF 54321"
+  },
+  {
+    "tipo": "Munck",
+    "filial": "CASCAVEL",
+    "data": "2025-10-07",
+    "fornecedor": "Guindastes Paraná",
+    "valor": 850.0,
+    "nota": "NF 67890"
+  },
+  {
+    "tipo": "Frete Peças M",
+    "filial": "GUARAPUAVA",
+    "data": "2025-10-10",
+    "fornecedor": "Moto Rápido",
+    "valor": 38.0,
+    "nota": ""
+  },
+  {
+    "tipo": "DAF Manutenção",
+    "filial": "CASCAVEL",
+    "data": "2025-10-12",
+    "fornecedor": "Auto Peças DAF",
+    "valor": 2450.0,
+    "nota": "NF 11223"
+  }
+]
